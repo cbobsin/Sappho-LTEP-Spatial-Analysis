@@ -15,9 +15,10 @@ This file loads the tiff files from the previous file and merges them into one l
 
 <img width="673" alt="Screen Shot 2023-01-13 at 11 09 53 AM" src="https://user-images.githubusercontent.com/121460266/212399888-d61f5a8e-1b6a-4f22-a396-2e745c2204d2.png">
 
+<img width="687" alt="Screen Shot 2023-01-16 at 10 54 57 AM" src="https://user-images.githubusercontent.com/121460266/212748952-52fd8c7e-30e5-4936-8791-dc1fc3e4ef1d.png">
+
 
 Site_Index_LTEP_Sappho.R
 
 This script uses files generated in LTEP_CHM.R that include csv files of trees heights for each experimental unit. Then, the tallest 20% of trees are calculated. This is used to determine site index. 
 ![image](https://user-images.githubusercontent.com/121460266/212399844-468475ee-813a-4065-847c-1716ff62d836.png)
-
