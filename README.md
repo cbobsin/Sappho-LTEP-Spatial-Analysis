@@ -6,7 +6,7 @@ This repository contains three R scripts and several zipped files:
 
 LTEP_Sappho_Laz_to_tiff.R
 
-This script takes downloaded laz files for the Sappho LTEP region and converts them to tiff files for use in this analysis. The tiff’s are saved to the working directory to be used in the next file. 
+This script takes downloaded laz files for the Sappho LTEP region and converts them to tiff files for use in this analysis. The tiff’s are saved to the working directory to be used in the next file. Note: laz files are too large to upload to github. If you need these files, email me and I can share them. I have already ran this code, generated tiff files, and uploaded them to this repository so you can still run the next two R scripts without these laz files. 
 
 LTEP_CHM.R
 
